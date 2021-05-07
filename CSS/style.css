@@ -1,11 +1,11 @@
 body
 	{
-		background-color:DACBE8 ;
+		background-color:pink ;
 	}
 
 a:link, a:visited
 	{
-		background-color: #F08080;
+		background-color: khaki;
 		color:white;
 		text-decoration: none;
 		padding: 16px;
@@ -18,14 +18,14 @@ a:link, a:visited
 a:hover
 	{
 		color:white;
-		background-color: #DE3163;
+		background-color: yellow ;
 		text-decoration: underline;
 	}
 
 a:active
 	{
 		color: black;
-		background-color: orange;
+		background-color: blue;
 		text-decoration: underline;
 	}
 
